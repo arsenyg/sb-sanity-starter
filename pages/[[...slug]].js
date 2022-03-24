@@ -138,6 +138,7 @@ LandingPage.propTypes = {
   openGraphImage: PropTypes.any,
   content: PropTypes.any,
   config: PropTypes.any,
+  _id: PropTypes.string,
 }
 
 export default LandingPage
