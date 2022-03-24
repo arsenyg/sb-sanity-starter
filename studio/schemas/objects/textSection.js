@@ -15,7 +15,7 @@ export default {
     },
     {
       name: 'text',
-      type: 'portableText',
+      type: 'markdown',
       title: 'Text',
     },
   ],

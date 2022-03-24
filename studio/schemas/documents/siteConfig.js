@@ -88,7 +88,7 @@ export default {
     },
     {
       name: 'footerText',
-      type: 'simplePortableText',
+      type: 'markdown',
       fieldset: 'footer',
     },
   ],
