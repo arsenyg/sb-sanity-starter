@@ -10,7 +10,7 @@ export default {
     },
     {
       name: 'tagline',
-      type: 'simplePortableText',
+      type: 'markdown',
       title: 'Tagline',
     },
     {
